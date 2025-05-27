@@ -1,6 +1,6 @@
 # HEIC to JPEG Converter
 
-A simple GUI tool to batch convert HEIC images as native to iPhone, to JPEG format using Python, [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter), [Pillow](https://python-pillow.org/), and [pillow-heif](https://github.com/strukturag/pillow-heif).
+A simple GUI tool to batch convert HEIC images as native to iPhone, to JPEG format using Python, [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter), [Pillow](https://github.com/python-pillow/Pillow), and [pillow-heif](https://github.com/bigcat88/pillow_heif).
 
 ## Features
 
